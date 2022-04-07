@@ -1,0 +1,115 @@
+{
+  "type": "Chapter",
+  "name": "dart_basics",
+  "children": [
+    {
+      "type": "Page",
+      "name": "1_variables",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/1_variables"
+      },
+      "content": "Variable are used to store numbers, strings and booleans. In addition we can store other types of data such as lists, objects as well.",
+      "title": "Create and Use Variables"
+    },
+    {
+      "type": "Page",
+      "name": "2_comparisons",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/2_comparisons"
+      },
+      "content": "We utilize comparisons to determine whether one number is less than or bigger than another.",
+      "title": "Comparing Numbers and Strings"
+    },
+    {
+      "type": "Page",
+      "name": "3_conditional",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/3_conditional"
+      },
+      "content": "Smart programs need conditionals to make decisions. Often we use the <b>if </b> statement to decide whether or not to execute a block of code.",
+      "title": "Using Conditions in Your Code"
+    },
+    {
+      "type": "Page",
+      "name": "4_loops",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/4_loops"
+      },
+      "content": "",
+      "title": "Using Loops in Your Code"
+    },
+    {
+      "type": "Page",
+      "name": "5_equality",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/5_equality"
+      },
+      "content": "",
+      "title": "Checking Equality"
+    },
+    {
+      "type": "Page",
+      "name": "6_strings",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/6_strings"
+      },
+      "content": "",
+      "title": "Using Strings"
+    },
+    {
+      "type": "Page",
+      "name": "7_true_and_false",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/7_true_and_false"
+      },
+      "content": "",
+      "title": "Learning Booleans (True and False) "
+    },
+    {
+      "type": "Page",
+      "name": "8_functions",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/8_functions"
+      },
+      "content": "",
+      "title": "Basics of Functions"
+    },
+    {
+      "type": "Page",
+      "name": "9_types",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/9_types"
+      },
+      "content": "",
+      "title": "Introduction to Types"
+    }
+  ],
+  "dartpad": {}
+}

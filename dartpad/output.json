@@ -1,0 +1,332 @@
+{
+  "type": "folder",
+  "name": "dart_basics",
+  "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics",
+  "dartpad": {
+    "gh_owner": "hsurendran",
+    "gh_repo": "flutter_training",
+    "gh_ref": "master",
+    "gh_path": "lib/dart_basics"
+  },
+  "children": [
+    {
+      "type": "folder",
+      "name": "1_variables",
+      "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/1_variables",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/1_variables"
+      },
+      "children": [
+        {
+          "type": ".dart",
+          "name": "main.dart",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/1_variables/main.dart",
+          "dartpad": {}
+        },
+        {
+          "type": ".txt",
+          "name": "note.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/1_variables/note.txt",
+          "dartpad": "",
+          "contents": "Variable are used to store numbers, strings and booleans. In addition we can store other types of data such as lists, objects as well."
+        },
+        {
+          "type": ".txt",
+          "name": "title.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/1_variables/title.txt",
+          "dartpad": "",
+          "contents": "Create and Use Variables"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "2_comparisons",
+      "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/2_comparisons",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/2_comparisons"
+      },
+      "children": [
+        {
+          "type": ".dart",
+          "name": "main.dart",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/2_comparisons/main.dart",
+          "dartpad": {}
+        },
+        {
+          "type": ".txt",
+          "name": "note.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/2_comparisons/note.txt",
+          "dartpad": "",
+          "contents": "We utilize comparisons to determine whether one number is less than or bigger than another."
+        },
+        {
+          "type": ".txt",
+          "name": "title.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/2_comparisons/title.txt",
+          "dartpad": "",
+          "contents": "Comparing Numbers and Strings"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "3_conditional",
+      "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/3_conditional",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/3_conditional"
+      },
+      "children": [
+        {
+          "type": ".dart",
+          "name": "main.dart",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/3_conditional/main.dart",
+          "dartpad": {}
+        },
+        {
+          "type": ".txt",
+          "name": "note.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/3_conditional/note.txt",
+          "dartpad": "",
+          "contents": "Smart programs need conditionals to make decisions. Often we use the <b>if </b> statement to decide whether or not to execute a block of code."
+        },
+        {
+          "type": ".txt",
+          "name": "title.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/3_conditional/title.txt",
+          "dartpad": "",
+          "contents": "Using Conditions in Your Code"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "4_loops",
+      "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/4_loops",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/4_loops"
+      },
+      "children": [
+        {
+          "type": ".dart",
+          "name": "main.dart",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/4_loops/main.dart",
+          "dartpad": {}
+        },
+        {
+          "type": ".txt",
+          "name": "note.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/4_loops/note.txt",
+          "dartpad": "",
+          "contents": ""
+        },
+        {
+          "type": ".txt",
+          "name": "title.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/4_loops/title.txt",
+          "dartpad": "",
+          "contents": "Using Loops in Your Code"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "5_equality",
+      "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/5_equality",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/5_equality"
+      },
+      "children": [
+        {
+          "type": ".dart",
+          "name": "main.dart",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/5_equality/main.dart",
+          "dartpad": {}
+        },
+        {
+          "type": ".txt",
+          "name": "note.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/5_equality/note.txt",
+          "dartpad": "",
+          "contents": ""
+        },
+        {
+          "type": ".txt",
+          "name": "title.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/5_equality/title.txt",
+          "dartpad": "",
+          "contents": "Checking Equality"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "6_strings",
+      "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/6_strings",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/6_strings"
+      },
+      "children": [
+        {
+          "type": ".dart",
+          "name": "main.dart",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/6_strings/main.dart",
+          "dartpad": {}
+        },
+        {
+          "type": ".txt",
+          "name": "note.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/6_strings/note.txt",
+          "dartpad": "",
+          "contents": ""
+        },
+        {
+          "type": ".txt",
+          "name": "title.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/6_strings/title.txt",
+          "dartpad": "",
+          "contents": "Using Strings"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "7_true_and_false",
+      "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/7_true_and_false",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/7_true_and_false"
+      },
+      "children": [
+        {
+          "type": ".dart",
+          "name": "main.dart",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/7_true_and_false/main.dart",
+          "dartpad": {}
+        },
+        {
+          "type": ".txt",
+          "name": "note.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/7_true_and_false/note.txt",
+          "dartpad": "",
+          "contents": ""
+        },
+        {
+          "type": ".txt",
+          "name": "title.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/7_true_and_false/title.txt",
+          "dartpad": "",
+          "contents": "Learning Booleans (True and False) "
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "8_functions",
+      "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/8_functions",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/8_functions"
+      },
+      "children": [
+        {
+          "type": ".dart",
+          "name": "main.dart",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/8_functions/main.dart",
+          "dartpad": {}
+        },
+        {
+          "type": ".txt",
+          "name": "note.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/8_functions/note.txt",
+          "dartpad": "",
+          "contents": ""
+        },
+        {
+          "type": ".txt",
+          "name": "title.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/8_functions/title.txt",
+          "dartpad": "",
+          "contents": "Basics of Functions"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "9_types",
+      "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/9_types",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/9_types"
+      },
+      "children": [
+        {
+          "type": ".dart",
+          "name": "main.dart",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/9_types/main.dart",
+          "dartpad": {}
+        },
+        {
+          "type": ".txt",
+          "name": "note.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/9_types/note.txt",
+          "dartpad": "",
+          "contents": ""
+        },
+        {
+          "type": ".txt",
+          "name": "title.txt",
+          "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/9_types/title.txt",
+          "dartpad": "",
+          "contents": "Introduction to Types"
+        }
+      ]
+    },
+    {
+      "type": ".py",
+      "name": "build_json.py",
+      "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/build_json.py",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/build_json.py"
+      }
+    },
+    {
+      "type": ".json",
+      "name": "output.json",
+      "path": "/Users/harisurendran/development/training/flutter_training/lib/flutter_training/dart_basics/output.json",
+      "dartpad": {
+        "gh_owner": "hsurendran",
+        "gh_repo": "flutter_training",
+        "gh_ref": "master",
+        "gh_path": "lib/output.json"
+      }
+    }
+  ]
+}
